@@ -62,7 +62,7 @@ En la imagen de abajo se muestra una captura de pantalla en donde se usa el coma
 Ejemplo | Captura Pantalla | Descripción
 --- | --- | ---
 Uso GDB | ![Usar print para ver el contenido de una estructura](/imagenes/pantalla_gdb1.png) | Screenshot ejemplo del uso de GDB y mostrando contenido 
-Demostrar uso de GDB | ![Uso de GDB](imagenes/pantalla_gdb.png) | Esta captura de imagen usando el comando gbd debe mostrar su nombre de usuario (en el shell o con un _echo_).
+Demostrar uso de GDB | ![Uso de GDB](imagenes/pantalla_gdb1.png) | Esta captura de imagen usando el comando gbd debe mostrar su nombre de usuario (en el shell o con un _echo_).
 
 
 ## Validación
